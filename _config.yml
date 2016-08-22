@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.845675
+  lightness: 0.4152483
+  brandStrength: 0.7280009
+  brandColors:
+    - '#F5D29B'
+    - '#11110F'
+    - '#433A33'
+    - '#73674F'
+    - '#D4AA80'
+  rhythmicContrast: 0.5062497
+typography_spectrum: 0.4106383
+name: Claire and Blair
