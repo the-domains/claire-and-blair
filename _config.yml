@@ -4,15 +4,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5021276
-  brandStrength: 0.7280009
+  brandStrength: 0.4297872
   lightness: 0.5297872
   brandColors:
     - '#F5D29B'
@@ -22,5 +22,5 @@ color:
     - '#D4AA80'
   rhythmicContrast: 0.5062497
 typography_spectrum: 0.4106383
-layout_spectrum: 0
+layout_spectrum: 0.8957447
 name: Claire and Blair
