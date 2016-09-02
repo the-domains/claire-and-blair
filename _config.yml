@@ -1,4 +1,16 @@
-typography_spectrum: 0.4106383
+title: MPPM
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5021276
   brandStrength: 0.4297872
@@ -10,19 +22,7 @@ color:
     - '#73674F'
     - '#D4AA80'
   lightness: 0.5297872
-layout_spectrum: 0.2829787
-name: MPPM
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: MPPM
+typography_spectrum: 0.4106383
 description: Mary Pearl & Peregrine Macgill
+layout_spectrum: 0.7595745
+name: MPPM
