@@ -11,7 +11,7 @@ color:
     - '#D4AA80'
   lightness: 0.5297872
 layout_spectrum: 0.2829787
-name: Claire and Blair
+name: MPPM
 collections:
   - index:
       path: /
@@ -25,3 +25,4 @@ collections:
     permalink:
       path: '/:title/'
 title: MPPM
+description: Mary Pearl & Peregrine Macgill
